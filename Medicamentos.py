@@ -1,0 +1,12 @@
+MEDICAMENTOS = ["Paracetamol", "Ibuprofeno", "Aspirina", "Diclofenaco", "Naproxeno", "Amoxicilina", "Ciprofloxacino",
+                "Azitromicina", "Clindamicina", "Metronidazol", "Omeprazol", "Pantoprazol", "Ranitidina", "Lansoprazol",
+                "Simeticona", "Dimeticona", "Loperamida", "Difenidol", "Metoclopramida", "Ondansetron", "Dipirona",
+                "Tramadol", "Codeina", "Morfina", "Diazepam", "Lorazepam", "Clonazepam", "Alprazolam", "Fluoxetina",
+                "Sertralina", "Paroxetina", "Citalopram", "Escitalopram", "Amitriptilina", "Nortriptilina",
+                "Venlafaxina", "Bupropiona", "Mirtazapina", "Trazodona", "Quetiapina", "Olanzapina", "Risperidona",
+                "Haloperidol", "Clorpromazina", "Prometazina", "Hidroxizina", "Difenidramina", "Cetirizina",
+                "Loratadina", "Desloratadina", "Fexofenadina", "Dextrometorfano", "Guaifenesina", "Ambroxol",
+                "Salbutamol", "Budesonida", "Beclometasona", "Fluticasona", "Montelukast", "Salmeterol", "Formoterol",
+                "Tiotropio", "Bromuro de Ipratropio", "Bromuro de Tiotropio", "Bromuro de Umeclidinio",
+                "Bromuro de Aclidinio", "Bromuro de Glicopirronio", "Bromuro de Indacaterol", "Bromuro de Olodaterol",
+                "Bromuro de Vilanterol", "Bromuro de Tiotropio + Olodaterol", "Bromuro de Glicopirronio"]

@@ -1,0 +1,103 @@
+Los pacientes atendidos el dia de hoy fueron: 
+Nombre: Thomas Flores Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Morgue
+Nombre: Abigail Gomez Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Morgue
+Nombre: Christopher Ray Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Morgue
+Nombre: Katrina Walker Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido para Hospitalizacion
+Nombre: Thomas Harrell Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta con medicamento
+Nombre: Richard Williams Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido para Hospitalizacion
+Nombre: Maria Simon Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta
+Nombre: David Nicholson Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Morgue
+Nombre: William Walker Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta con medicamento
+Nombre: Danielle Dixon Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta Voluntaria
+Nombre: Kelly Gonzalez Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido para Hospitalizacion
+Nombre: Ryan Turner Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta Voluntaria
+Nombre: Howard Miller Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta
+Nombre: Travis Marshall Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta
+Nombre: Tony Hoffman Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta
+Nombre: Todd Jackson Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido para Hospitalizacion
+Nombre: Kathryn Waters Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido para Hospitalizacion
+Nombre: Paula Morris Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Morgue
+Nombre: Kristi Flores Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta Voluntaria
+Nombre: Karen Douglas Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido a Medico Especialista
+Nombre: Jose Mathews Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta con medicamento
+Nombre: Pamela Hernandez Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido a Medico Especialista
+Nombre: Karen Donaldson Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido para Hospitalizacion
+Nombre: Keith Conner Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido a Medico Especialista
+Nombre: Vanessa Massey Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Remitido a Medico Especialista
+Nombre: Sierra Gonzalez Gravedad: Azul ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Inmediato Salida: Alta Voluntaria
+Nombre: Kevin Martinez Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Alta Voluntaria
+Nombre: Brandy Dean Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Alta
+Nombre: Denise Graves Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Remitido para Hospitalizacion
+Nombre: Brian Allen Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Remitido a Medico Especialista
+Nombre: Eric Garcia Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Remitido para Hospitalizacion
+Nombre: Catherine Caldwell Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Alta Voluntaria
+Nombre: Andrew Brady Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Morgue
+Nombre: Mr. Roger Beasley Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Morgue
+Nombre: Nicholas Collier Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Morgue
+Nombre: Malik Kelly Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Alta Voluntaria
+Nombre: Michele Conway Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Remitido a Medico Especialista
+Nombre: Hayley Simpson Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Remitido para Hospitalizacion
+Nombre: Jason Mckay Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Remitido para Hospitalizacion
+Nombre: Morgan Rowland Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Morgue
+Nombre: Mary Davis Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Alta Voluntaria
+Nombre: Samuel Mitchell Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Remitido para Hospitalizacion
+Nombre: Jessica Massey Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Alta
+Nombre: Amanda Pham Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Alta
+Nombre: Brandon Harris Gravedad: Urgente ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo, estabilizacion de dolencias y monitoreo de signos vitales en una franja de tiempo Tiempo de espera: Entre 10 y 20 minutos Salida: Alta
+Nombre: Andrew Wood Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Morgue
+Nombre: Matthew Russell Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta con medicamento
+Nombre: Susan Garcia Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta Voluntaria
+Nombre: Megan Case Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Morgue
+Nombre: Trevor Wilson Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Donna Taylor Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Sheri Allen Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Jerry Fitzgerald Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido a Medico Especialista
+Nombre: Andrea Stanley Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta
+Nombre: Derek Hopkins Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta con medicamento
+Nombre: Michelle Mosley Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Madeline Mann Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta
+Nombre: Melissa Castillo Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido a Medico Especialista
+Nombre: Karen King Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta
+Nombre: Nicholas Collins Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Melissa Richardson Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Ashley Ferguson Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta Voluntaria
+Nombre: Rebekah Hill Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido a Medico Especialista
+Nombre: Lisa Weaver Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta
+Nombre: Michelle Mason Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta
+Nombre: Mr. Joseph Carter Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta con medicamento
+Nombre: Seth Baker Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Morgue
+Nombre: Matthew Stanton Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Aaron Reyes Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta
+Nombre: Mark Richards Gravedad: Normal ID: 6027120128 Tratamientos: Examenes medico, procedimiento curativo Tiempo de espera: Entre 20 y 40 minutos Salida: Alta Voluntaria
+Nombre: Gina Davis Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Felicia Kaiser Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta
+Nombre: Stacey Fernandez Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta Voluntaria
+Nombre: Paul Grimes Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido a Medico Especialista
+Nombre: Linda Lee Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta
+Nombre: Jacob Baker Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta Voluntaria
+Nombre: Isabel White Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Suzanne Hanson Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Molly Barton Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Morgue
+Nombre: Andrew Gray Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta
+Nombre: Stephanie Moreno Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Abigail Hartman Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta Voluntaria
+Nombre: Donna White Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta Voluntaria
+Nombre: Bradley Romero Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta Voluntaria
+Nombre: Crystal Peters Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta con medicamento
+Nombre: Jonathan Murray Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido a Medico Especialista
+Nombre: Angela Kelly Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Judith Nguyen Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido a Medico Especialista
+Nombre: Michelle Jimenez Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Morgue
+Nombre: Whitney Johnston Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta
+Nombre: Elaine Palmer Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Morgue
+Nombre: Chad Salas Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido para Hospitalizacion
+Nombre: Erin Chen Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido a Medico Especialista
+Nombre: Phillip Rubio Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Morgue
+Nombre: Tyler Moore Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta con medicamento
+Nombre: Julie Arnold Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido a Medico Especialista
+Nombre: Jose Ray Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Morgue
+Nombre: Jeremiah Byrd Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Morgue
+Nombre: Erin Juarez DDS Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Alta Voluntaria
+Nombre: Gabriel Morris Gravedad: Leve ID: 6027120128 Tratamientos: Examenes medico Tiempo de espera: Mas de 40 minutos Salida: Remitido a Medico Especialista
+ 
+ numero total de pacientes atendidos: 100
